@@ -23,7 +23,7 @@ Una aplicación web desarrollada con Django que permite gestionar tareas persona
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tuusuario/django-crud-auth.git
+git clone https://github.com/Leonardoih/django-crud-auth.git
 cd django-crud-auth
 ```
 
@@ -99,7 +99,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autor
 
-* **Tu Nombre** - *Trabajo Inicial* - [Leonardoih](https://github.com/Leonardoih)
+* **Leonardo Izquierdo** - *Trabajo Inicial* - [Leonardoih](https://github.com/Leonardoih)
 
 ## 🙏 Agradecimientos y Créditos
 
